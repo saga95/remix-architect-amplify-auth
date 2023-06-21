@@ -99,7 +99,7 @@ Amplify.configure({
 
     // (optional) - Hosted UI configuration
     oauth: {
-      domain: 'scenario-one-domain.auth.us-west-2.amazoncognito.com',
+      domain: '<userpool domain>',
       scope: [
         'phone',
         'email',
